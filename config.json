@@ -102,7 +102,7 @@
         "lbav": {
             "api": "https://lbapi9.com/api.php/provide/vod",
             "name": "乐播资源",
-        }，
+        },
         "1080": {
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "name": "1080源站"
