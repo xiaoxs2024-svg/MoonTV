@@ -116,11 +116,6 @@
             "api": "https://lbapi9.com/api.php/provide/vod",
             "detail": ""
         },
-        "lsbav": {
-            "name": "司机资源",
-            "api": "https://apilsbzy1.com/api.php/provide/vod",
-            "detail": "https://apilsbzy1.com"
-        }, 
         "jkunav": {
             "name": "吉坤资源",
             "api": "https://jkunzyapi.com/api.php/provide/vod",
