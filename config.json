@@ -115,11 +115,6 @@
             "name": "乐播资源",
             "api": "https://lbapi9.com/api.php/provide/vod",
             "detail": ""
-        },
-        "jkunav": {
-            "name": "吉坤资源",
-            "api": "https://jkunzyapi.com/api.php/provide/vod",
-            "detail": "https://jkunzyapi.com"
-        }        
+        }       
     }
 }
