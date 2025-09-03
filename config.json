@@ -100,7 +100,27 @@
     "555": {
       "api": "https://www.qiqidys.com/api.php/provide/vod",
       "name": "七七资源站"
-    },      
+    }, 
+    "777": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide",
+      "name": "快车资源"
+    },
+    "888": {
+      "api": "https://lbapi9.com/api.php/provide/vod",
+      "name": "乐博资源"
+    },
+    "999": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "优酷"
+    },
+    "010": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+    "011": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源站"
+    }, 
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
