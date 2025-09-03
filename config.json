@@ -106,15 +106,15 @@
         "1080": {
             "api": "https://api.1080zyku.com/inc/api_mac10.php",
             "name": "1080源站"
-       },
-        "guangsu": {
+        },
+         "guangsu": {
            "api": "https://api.guangsuapi.com/api.php/provide/vod",
            "name": "光速资源站"
-      },
-       "xiaomaomi": {
+       },
+        "xiaomaomi": {
            "api": "https://zy.xmm.hk/api.php/provide/vod",
            "name": "小猫咪资源"
-    }，
+       }，
         "qiqiqiqi": {
             "api": "https://www.qiqidys.com/api.php/provide/vod/",
             "name": "七七影视"
