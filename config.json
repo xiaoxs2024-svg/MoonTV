@@ -81,6 +81,14 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
+    "1080": {
+      "api": "https://api.1080zyku.com/inc/api_mac10.php",
+      "name": "1080源站"
+    },
+    "aikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "爱坤资源站"
+    },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
