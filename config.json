@@ -1,11 +1,11 @@
-{"cache_time":7200,"api_site":{"dyttzy":{"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","name":"电影天堂","detail":"http://caiji.dyttzyapi.com"}
+{"cache_time":7200,"api_site":{"dyttzy":{"api":"http://caiji.dyttzyapi.com/api.php/provide/vod","name":"电影天堂1","detail":"http://caiji.dyttzyapi.com"}
 ,"heimuer":{"api":"https://json.heimuer.xyz/api.php/provide/vod","name":"黑木耳","detail":"https://heimuer.tv"}
-,"ruyi":{"api":"http://cj.rycjapi.com/api.php/provide/vod","name":"如意资源"}
+,"ruyi":{"api":"http://cj.rycjapi.com/api.php/provide/vod","name":"如意资源1"}
 ,"bfzy":{"api":"https://bfzyapi.com/api.php/provide/vod","name":"暴风资源"}
 ,"tyyszy":{"api":"https://tyyszy.com/api.php/provide/vod","name":"天涯资源"}
 ,"ffzy":{"api":"https://api.ffzyapi.com/api.php/provide/vod","name":"非凡影视","detail":"http://ffzy5.tv"}
 ,"zy360":{"api":"https://360zy.com/api.php/provide/vod","name":"360资源"}
-,"maotaizy":{"api":"https://caiji.maotaizy.cc/api.php/provide/vod","name":"茅台资源"}
+,"maotaizy":{"api":"https://caiji.maotaizy.cc/api.php/provide/vod","name":"茅台资源1"}
 ,"wolong":{"api":"https://wolongzyw.com/api.php/provide/vod","name":"卧龙资源"}
 ,"jisu":{"api":"https://jszyapi.com/api.php/provide/vod","name":"极速资源","detail":"https://jszyapi.com"}
 ,"dbzy":{"api":"https://dbzy.tv/api.php/provide/vod","name":"豆瓣资源"}
