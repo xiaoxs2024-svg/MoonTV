@@ -21,7 +21,7 @@
 ,"subocaiji":{"api":"https://subocaiji.com/api.php/provide/vod","name":"速播资源"}
 ,"p2100":{"api":"https://p2100.net/api.php/provide/vod","name":"飘零资源","detail":"https://p2100.net"}
 ,"ukuapi88":{"api":"https://api.ukuapi88.com/api.php/provide/vod","name":"优酷资源"}
-,"lbav":{"api":"https://lbapi9.com/api.php/provide/vod","name":"乐播资源",}
+,"lbav":{"api":"https://lbapi9.com/api.php/provide/vod","name":"乐播资源"}
 ,"1080":{"api":"https://api.1080zyku.com/inc/api_mac10.php","name":"1080源站"}
 ,"guangsu":{"api":"https://api.guangsuapi.com/api.php/provide/vod","name":"光速资源站"}
 ,"xiaomaomi":{"api":"https://zy.xmm.hk/api.php/provide/vod","name":"小猫咪资源"}
